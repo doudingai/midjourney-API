@@ -26,7 +26,7 @@ https://api.midjourncy.com/
 ## 技术支持
 API兼容市场上所有支持midjourney-proxy或plus的程序，如果不支持您的程序，我们也提供标准API进行对接
 ## 联系我们
-![Midjourney-API](https://fenghuaxueyuesic.oss-cn-beijing.aliyuncs.com/WechatIMG604.jpg)
+![Midjourney-API](https://fenghuaxueyuesic.oss-cn-beijing.aliyuncs.com/WechatIMG54.jpg)
 
 ## 其它
 如果觉得这个项目对您有所帮助，请帮忙点个star
