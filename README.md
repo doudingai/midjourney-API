@@ -1,4 +1,4 @@
-
+## Midjourney-官方API接入
 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 
 使用灵活计费，按次扣费，fast快速模式RMB0.2元一次，relax007元一次
